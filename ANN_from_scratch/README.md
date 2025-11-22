@@ -63,7 +63,7 @@ cost = mean((y - output)^2)
 
 ## 🛠 Technologies Used
 
-- **Python 3.8+**
+- **Python**
 - **NumPy**
 
 ---
@@ -86,4 +86,5 @@ This ANN implementation is ideal for learning:
 This project demonstrates how a regression-based Artificial Neural Network (ANN) can be built completely from scratch using only Python and NumPy. By implementing every component manually—forward propagation, backpropagation, gradients, activation functions, and optimization—you gain a deep understanding of how neural networks truly work under the hood.  
 
 While modern deep-learning frameworks automate these processes, building your own ANN provides valuable insight into the core mathematics and logic that power machine learning models today. This implementation serves as a strong foundation for expanding into more advanced architectures such as classification networks, multi-layer perceptrons, and even deep learning frameworks.
+
 
